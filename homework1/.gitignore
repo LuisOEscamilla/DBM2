@@ -1,0 +1,5 @@
+*.class
+.DS_Store
+.vscode/
+homework1/tests/big.txt
+homework1/tests/*.actual
